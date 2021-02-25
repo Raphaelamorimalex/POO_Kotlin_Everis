@@ -6,6 +6,7 @@ class Pessoa {
     /*inner class endereco{
         var rua:String = "Rua teste"
     }*/
+    private set
 }
 
 fun main(){
